@@ -1,2 +1,6 @@
-# Photofolio
-Link Portofolio dibangun menggunakan teknologi frontend modern, seperti ReactJS, HTML, CSS, dan JavaScript. Aplikasi ini juga dilengkapi dengan fitur deployment menggunakan GitHub Actions, memudahkan Anda untuk menjalankan dan mempublikasikan aplikasi.
+Thanks for downloading this template!
+
+Template Name: PhotoFolio
+Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
